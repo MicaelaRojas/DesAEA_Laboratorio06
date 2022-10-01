@@ -1,0 +1,64 @@
+﻿using System;
+using System.Collections.Generic;
+using Data;
+using Entity;
+
+namespace Business
+{
+    public class BCategoria
+    {
+        private DCategoria DCategoria = null;
+
+      
+
+        public bool Insertar(Categoria categoria)
+        {
+            bool result = true;
+            try
+            {
+                DCategoria = new DCategoria();
+                DCategoria.Insertar(categoria);
+            }
+            catch (Exception ex)
+            {
+                result = false;
+            }
+            return result;
+        }
+
+        public bool Actualizar(Categoria categoria)
+        {
+            bool result = true;
+            try
+            {
+                DCategoria = new DCategoria();
+                DCategoria.Actualizar(categoria);
+            }
+            catch (Exception ex)
+            {
+                result = false;
+            }
+            return result;
+        }
+
+        public bool Eliminar(int IdCategoria)
+        {
+            bool result = true;
+            try
+            {
+                DCategoria = new DCategoria();
+                DCategoria.Eliminar(IdCategoria);
+            }
+            catch (Exception ex)
+            {
+                result = false;
+            }
+            return result;
+        }
+
+        public bool Eliminar(Categoria categoria)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

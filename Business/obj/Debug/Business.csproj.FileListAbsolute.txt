@@ -1,0 +1,11 @@
+C:\Users\Micaela Rojas\source\repos\Business\bin\Debug\Business.dll
+C:\Users\Micaela Rojas\source\repos\Business\bin\Debug\Business.pdb
+C:\Users\Micaela Rojas\source\repos\Business\bin\Debug\Data.dll
+C:\Users\Micaela Rojas\source\repos\Business\bin\Debug\Entity.dll
+C:\Users\Micaela Rojas\source\repos\Business\bin\Debug\Data.pdb
+C:\Users\Micaela Rojas\source\repos\Business\bin\Debug\Entity.pdb
+C:\Users\Micaela Rojas\source\repos\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\Micaela Rojas\source\repos\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Micaela Rojas\source\repos\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Micaela Rojas\source\repos\Business\obj\Debug\Business.dll
+C:\Users\Micaela Rojas\source\repos\Business\obj\Debug\Business.pdb
